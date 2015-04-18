@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Kuba Waliński</title><description>Thoughts on my life, the code I write and everything else that catches my attention...</description><link>http://kubawalinski-blog.azurewebsites.net/</link><generator>Ghost 0.5</generator><lastBuildDate>Sun, 12 Apr 2015 17:47:48 GMT</lastBuildDate><atom:link href="http://kubawalinski-blog.azurewebsites.net/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>2014/2015 Conference Extravaganza</title><description>&lt;h2 id="tldr"&gt;TLDR&lt;/h2&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Kuba Waliński</title><description>Thoughts on my life, the code I write and everything else that catches my attention...</description><link>http://kubawalinski-blog.azurewebsites.net/</link><generator>Ghost 0.5</generator><lastBuildDate>Sat, 18 Apr 2015 20:09:37 GMT</lastBuildDate><atom:link href="http://kubawalinski-blog.azurewebsites.net/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>2014/2015 Conference Extravaganza</title><description>&lt;h2 id="tldr"&gt;TLDR&lt;/h2&gt;
 
 &lt;p&gt;Here's a list of the events that I spoke/will speak at:&lt;/p&gt;
 
@@ -13,6 +13,7 @@
 &lt;li&gt;&lt;a href="https://konferencjaget.net/en/lodz"&gt;GET.NET&lt;/a&gt;, Łódź, 18.04.2015&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://devitconf.org/"&gt;DEVit&lt;/a&gt;, Thessaloniki, 15.05.2015&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://ndcoslo.com/"&gt;NDC Oslo&lt;/a&gt;, 15-19.06.2015&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mediterraneajs.eu/"&gt;MediterraneaJS&lt;/a&gt;, Barcelona, 22-23.06.2015&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.phpconference.nl/"&gt;Dutch PHP Conference&lt;/a&gt;, 26-27.06.2015&lt;/li&gt;
 &lt;/ul&gt;
 
